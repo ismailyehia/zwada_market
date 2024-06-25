@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766302964914",
+    "project_id": "zawadaapp",
+    "storage_bucket": "zawadaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766302964914:android:f50d1ac291b6e6db788dab",
+        "android_client_info": {
+          "package_name": "com.zawada.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZVlnRcIG9aHBdwMr93H6PtZ1YrP203xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
